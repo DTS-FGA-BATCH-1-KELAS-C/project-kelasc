@@ -2,87 +2,108 @@
     "peserta": [
         {
             "name": "Rachmad Irawan",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Surabaya"
         },
         {
             "name": "Galang Sumantri",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Kulon Progo"
         },
         {
             "name": "Muhammad Fathur Rachman",
             "kelas": "C"
+            "kota" : "Bekasi"
         },
         {
             "name": "Mardhani Dwi Novianto",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Purworejo"
         },
         {
             "name": "Regi Ridho Biyantomo",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Pontianak"
         },
         {
             "name": "Cristmas Anggario",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Bekasi"
         },
         {
             "name": "Siti Nur Khalisha",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Palembang"
         },
         {
             "name": "Muhammad Miftah Hasibuan",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Medan"
         },
         {
             "name": "M. Rezky Syach Fahrezy Rahimat",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Soppeng"
         },
         {
             "name": "Indita Pryatama P",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Jakarta"
         },
         {
             "name": "Aris Hariyanto",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Lampung Selatan"
         },
         {
             "name": "Muhammad Azhar Rizki",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Klaten"
         },
         {
             "name": "Lukby Kiyad Prihatini",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Makassar"
         },
         {
             "name": "Synvi Alfajrine Loeba Bistomy",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Sleman"
         },
         {
             "name": "Bayu Khoerul Mizan",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Tegal"
         },
         {
             "name": "Imam Zuhdi",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Pariaman"
         },
         {
             "name": "Fitri Azzah Nur'aini",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Semarang"
         },
         {
             "name": "Ngarapdat Manik",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Medan"
         },
         {
             "name": "Bayu Khoerul Mizan",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Tegal"
         },
         {
             "name": "Salwa Cendikia Millantika",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Bandung"
         },
         {
             "name": "Alnisa Putri Candra Kirana",
-            "kelas": "C"
+            "kelas": "C",
+            "kota" : "Pontianak"
         }
     ]
 }
